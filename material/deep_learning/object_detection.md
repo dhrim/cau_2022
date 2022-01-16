@@ -35,7 +35,7 @@ TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로
 다만 미리 학습된 모델의 weight 파일을 제공한다.
 
 
-- 실습 자료 : [object_detection_yolo_darknet.ipynb](object_detection_yolo_darknet.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/object_detection_yolo_darknet.ipynb)
+- 실습 자료 : [object_detection_yolo_darknet.ipynb](object_detection_yolo_darknet.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/object_detection_yolo_darknet.ipynb)
 
 - 적용 예 : https://drive.google.com/file/d/1ZGiJtRBG8wyI3nn8oI9iKqJC4zOitghT/view?usp=sharing
 
@@ -44,7 +44,7 @@ TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로
 
 ## Keras 사용
 
-- 실습 자료 : [keras_yolov3.ipynb](keras_yolov3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/keras_yolov3.ipynb)
+- 실습 자료 : [keras_yolov3.ipynb](keras_yolov3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/keras_yolov3.ipynb)
 
 
 <br>
@@ -52,15 +52,15 @@ TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로
 
 ## 커스텀 데이터 학습
 
-- raccoon 데이터 학습 : [train_yolov3_raccoon_train.ipynb](train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/train_yolov3_raccoon_train.ipynb)
+- raccoon 데이터 학습 : [train_yolov3_raccoon_train.ipynb](train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/train_yolov3_raccoon_train.ipynb)
 
-- raccon 데이터 탐지 실행 : [keras_yolov3_custom_model.ipynb](keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/keras_yolov3_custom_model.ipynb)
+- raccon 데이터 탐지 실행 : [keras_yolov3_custom_model.ipynb](keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/keras_yolov3_custom_model.ipynb)
 
 <br>
 
 ## YOLO를 사용한 얼굴 인식
 
-- face 데이터 탐지 실행 : [face_recognition_with_2_models.ipynb](face_recognition_with_2_models.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/face_recognition_with_2_models.ipynb)
+- face 데이터 탐지 실행 : [face_recognition_with_2_models.ipynb](face_recognition_with_2_models.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/face_recognition_with_2_models.ipynb)
 
 
 <br>
