@@ -7,7 +7,7 @@
 # 1일차 : 딥러닝, Keras
 
 - 딥러닝의 개념 및 동작 원리의 이해 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
-- Keras 사용법 : [dnn_in_keras_short.ipynb](material/deep_learning/dnn_in_keras_short.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/dnn_in_keras_short.ipynb)
+- Keras 사용법 : [dnn_in_keras_shortly.ipynb](material/deep_learning/dnn_in_keras_shortly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/dnn_in_keras_shortly.ipynb)
 
 - IRIS : [dnn_iris_classification.ipynb](material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/dnn_iris_classification.ipynb)
 - MNIST : [dnn_mnist.ipynb](material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/dnn_mnist.ipynb)
