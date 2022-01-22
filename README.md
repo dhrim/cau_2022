@@ -59,11 +59,11 @@
 
 # AutoEncoder, GAN, Anomaly Detection 특강
 
-- AutoEncoder : https://www.tensorflow.org/recommenders/examples/quickstart
+- AutoEncoder
     - AutoEncoder 실습 : [autoencoder.ipynb](material/deep_learning/autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/autoencoder.ipynb)
     - 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
     - Super Resolution : [mnist_super_resolution.ipynb](material/deep_learning/mnist_super_resolution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/mnist_super_resolution.ipynb)
-- GAN : https://www.tensorflow.org/recommenders/examples/quickstart
+- GAN
     - GAN을 사용한 fashion MNIST 학습 : [wgan_gp_fashion_mnnist.ipynb](material/deep_learning/wgan_gp_fashion_mnnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/wgan_gp_fashion_mnnist.ipynb)
     - GAN을 사용한 CIFAR10 학습 : [wgan_gp_cifar10.ipynb](material/deep_learning/wgan_gp_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/wgan_gp_cifar10.ipynb)
     - Conditional GAN의 이해 : [anomaly_detection_using_gan.pptx](material/deep_learning/anomaly_detection_using_gan.pptx)
