@@ -54,6 +54,29 @@
         - sequence DataGenerator : [weather_forecasting.ipynb](material/deep_learning/weather_forecasting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/weather_forecasting.ipynb)  
     - 상품가격 예측 : [financial_data_predict_commodity_price.ipynb](material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
     - 날씨 예측, 분류 : [weather_forecasting.ipynb](material/deep_learning/weather_forecasting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022/blob/master/material/deep_learning/weather_forecasting.ipynb) 
+
+<br>
+
+# AutoEncoder, GAN, Anomaly Detection 특강
+
+- AutoEncoder : https://www.tensorflow.org/recommenders/examples/quickstart
+    - AutoEncoder 실습 : [autoencoder.ipynb](material/deep_learning/autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/autoencoder.ipynb)
+    - 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
+    - Super Resolution : [mnist_super_resolution.ipynb](material/deep_learning/mnist_super_resolution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/mnist_super_resolution.ipynb)
+- GAN : https://www.tensorflow.org/recommenders/examples/quickstart
+    - GAN을 사용한 fashion MNIST 학습 : [wgan_gp_fashion_mnnist.ipynb](material/deep_learning/wgan_gp_fashion_mnnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/wgan_gp_fashion_mnnist.ipynb)
+    - GAN을 사용한 CIFAR10 학습 : [wgan_gp_cifar10.ipynb](material/deep_learning/wgan_gp_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/wgan_gp_cifar10.ipynb)
+    - Conditional GAN의 이해 : [anomaly_detection_using_gan.pptx](material/deep_learning/anomaly_detection_using_gan.pptx)
+    - Cycle GAN의 이해 : [cycle_gan.pdf](material/deep_learning/cycle_gan.pdf)
+- Anomaly Detection
+    - 카드 사기 탐지 : [financial_data_detect_fraud_card.ipynb](material/deep_learning/financial_data_detect_fraud_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_detect_fraud_card.ipynb) 
+    - fashion MNIST 이상 탐지 : [anomaly_detection_fahsion_mnist.ipynb](material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) 
+    - 이상탐지 동영상 : [drillai_anomaly_detect.mp4](material/deep_learning/drillai_anomaly_detect.mp4)
+    - 이상탐지 관련 GAN 설명 : [deep_learning_anomaly_detection.pptx](material/deep_learning/deep_learning_anomaly_detection.pptx)
+    - 딥러닝 이상탐지 : [deep_learning_anomaly_detection.pptx](material/deep_learning/deep_learning_anomaly_detection.pptx)
+    - GAN을 사용한 생산설비 이상 탐지 : [anomaly_detection_using_gan.pptx](material/deep_learning/anomaly_detection_using_gan.pptx)
+
+
 <br>
 
 # 교육 환경 관련
